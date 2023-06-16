@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou a Caroline Barbara
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS e Javascript
+- 🌱 Estudando HTML, CSS, Javascript e Java
 - 📫 Contate-me no e-mail: caroline.sbarbara@gmail.com
 - 😄 Pronomes: Ela/Dela
 
