@@ -1,9 +1,8 @@
 ### 👋 Olá, eu sou a Caroline Barbara
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS, Javascript e Java
+- 🌱 Estudando Javascript e React Native, focada no desenvolvimento Mobile usando principalmente React Native
 - 📫 Contate-me no e-mail: caroline.sbarbara@gmail.com
-- 😄 Pronomes: Ela/Dela
 
 ##
 
