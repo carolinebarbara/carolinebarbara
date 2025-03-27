@@ -1,7 +1,7 @@
-### 👋 Olá, eu sou a Caroline Barbara
+### 👋 Olá, eu sou a Caroline
 
-- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Javascript e React Native, focada no desenvolvimento Mobile usando principalmente React Native
+- 🔭 Sou formada em Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente trabalho como desenvolvedora no Banco do Brasil
 - 📫 Contate-me no e-mail: caroline.sbarbara@gmail.com
 
 ##
