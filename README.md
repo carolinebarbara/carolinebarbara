@@ -8,8 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/carolinebarbara">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebarbara&layout=compact&langs_count=7&theme=midnight-purple"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebarbara&hide_progress=false&hide=css,html&layout=compact&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
